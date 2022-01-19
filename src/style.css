@@ -1,0 +1,35 @@
+#cam-container{
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+
+#addCamion{
+margin-bottom: 10px;
+
+}
+
+.cam-on{
+background-color: green;
+width: 100px;
+height: 100px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.cam-off{
+background-color: red;
+width: 100px;
+height: 100px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.div-camion{
+    display: flex;
+    flex-direction: column;
+    
+}
